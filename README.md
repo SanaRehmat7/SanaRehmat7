@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Sana Rehmat!
 
-<!--
-**SanaRehmat7/SanaRehmat7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSCS Student | 💻 Self-taught MERN Stack Developer  
+Currently working on full-stack projects and learning backend architecture.  
+Building skills in Node.js, Express.js, React.js, and MongoDB.  
+Completed real-world projects like Amazon Clone, Job Portal, Book Store App, and more.  
+Fun fact: I love participating in hackathons and coding competitions!
 
-Here are some ideas to get you started:
+## Tech Stack
+- Frontend: React.js, HTML, CSS, JavaScript, Tailwind CSS, npm, Redux
+- Backend: Node.js, Express.js, MongoDB  
+- Tools: Git, GitHub, Postman, MongoDB Compass, VS Code, insomnia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- [Ecomm Clone](https://github.com/SanaRehmat7) – Full-stack eCommerce site  
+- [Job Portal](https://github.com/SanaRehmat7) – Admin & jobseeker functionality  
+- [Image Search App](https://github.com/SanaRehmat7) – API-based search using Unsplash  
+*(More projects on my profile!)*
+
+## Contact Me
+📧 Email: sanarehmatali05@gmail.com  
+🔗 LinkedIn: [linkedin.com/in/sanarehmatali](https://linkedin.com/in/sanarehmatali)
+
