@@ -1,13 +1,15 @@
 # 👋 Hi, I'm Sana Rehmat!
 
-🎓 MSCS Student | 💻 Self-taught MERN Stack Developer  
-Currently working on full-stack projects and learning backend architecture.  
-Building skills in Node.js, Express.js, React.js, and MongoDB.  
-Completed real-world projects like Amazon Clone, Job Portal, Book Store App, and more.  
-Fun fact: I love participating in hackathons and coding competitions!
+🎓 MSCS Student | Full Stack Developer | MERN Stack Enthusiast  
+I'm a passionate Full Stack Developer with a focus on building scalable, user-friendly web applications. I work primarily with the MERN stack 
+(MongoDB, Express.js, React.js, Node.js) and have hands-on experience in developing responsive UIs, RESTful APIs, and integrating third-party services.
+
+My projects reflect a blend of clean code practices, component-based architecture, and performance optimization. I'm also comfortable working 
+with version control (Git), deployment pipelines, and cloud platforms like Vercel and Render.
+I'm always open to collaboration, learning, and contributing to meaningful open-source projects. Let’s build something great together!
 
 ## Tech Stack
-- Frontend: React.js, HTML, CSS, JavaScript, Tailwind CSS, npm, Redux
+- Frontend: React.js, HTML, CSS3, JavaScript, Tailwind CSS, npm, Redux
 - Backend: Node.js, Express.js, MongoDB  
 - Tools: Git, GitHub, Postman, MongoDB Compass, VS Code, insomnia
 
