@@ -14,7 +14,7 @@ I'm always open to collaboration, learning, and contributing to meaningful open-
 - Tools: Git, GitHub, Postman, MongoDB Compass, VS Code, insomnia
 
 ## Featured Projects
-- [Ecomm Site])-(https://github.com/SanaRehmat7/Ecommerce) – Full-stack eCommerce site  
+- (https://github.com/SanaRehmat7/Ecommerce) – Full-stack eCommerce site  
 - [Job Portal](https://github.com/SanaRehmat7) – Admin & jobseeker functionality  
 - [Image Search App](https://github.com/SanaRehmat7) – API-based search using Unsplash  
 *(More projects on my profile!)*
